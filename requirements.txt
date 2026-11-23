@@ -1,0 +1,14 @@
+torch
+torchvision
+monai
+opencv-python
+scikit-image
+numpy
+pandas
+matplotlib
+albumentations
+scikit-learn
+tqdm
+pyyaml
+jupyter
+pytest
