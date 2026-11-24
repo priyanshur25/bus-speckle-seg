@@ -1,0 +1,14 @@
+method,setting,texture_ratio,boundary_grad_ratio,contrast_ratio
+Gaussian,sigma=0.8,0.686,0.837,0.995
+Gaussian,sigma=1.5,0.418,0.657,0.983
+Gaussian,sigma=2.5,0.225,0.477,0.948
+Median,k=3,0.799,0.896,1.001
+Median,k=5,0.566,0.769,0.996
+Median,k=7,0.423,0.675,0.987
+Bilateral,"d=5, sc=15, ss=3",0.876,0.94,0.998
+Bilateral,"d=7, sc=25, ss=5",0.723,0.868,0.995
+Bilateral,"d=9, sc=50, ss=7",0.478,0.721,0.985
+Bilateral,"d=9, sc=75, ss=9",0.386,0.641,0.98
+Non-Local Means,h=5,0.957,0.979,1.001
+Non-Local Means,h=10,0.812,0.91,1.0
+Non-Local Means,h=15,0.673,0.839,0.996

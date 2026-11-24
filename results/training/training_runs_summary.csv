@@ -1,0 +1,5 @@
+run,condition,seed,best_epoch,best_val_dice,best_val_lesion_dice,minutes
+original_seed42,original,42,25,0.7105,0.7016,29.5
+gaussian_seed42,gaussian,42,27,0.6719,0.6857,33.4
+median_seed42,median,42,25,0.702,0.7111,32.2
+non_local_means_seed42,non_local_means,42,23,0.6807,0.696,28.9

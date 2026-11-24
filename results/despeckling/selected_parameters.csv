@@ -1,0 +1,5 @@
+method,setting,texture_ratio,boundary_grad_ratio,contrast_ratio
+Gaussian,sigma=0.8,0.686,0.837,0.995
+Median,k=3,0.799,0.896,1.001
+Bilateral,"d=7, sc=25, ss=5",0.723,0.868,0.995
+Non-Local Means,h=15,0.673,0.839,0.996
